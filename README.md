@@ -1,1 +1,22 @@
 # Stance_detection
+Datasets related to the CSCW 2019 paper 'Your Stance is Exposed! Analysing Possible Factors for
+Stance Detection on Social Media'
+
+If you have any questions about the paper or want to get access to code/dataset that's not already public, please contact Abeer ALDayel (a.aldayel@ed.ac.uk)
+
+## Contributions
+In this study we exames To what extent user’s stance towards a given topic could be inferred? Most of the studies on stance detection
+have focused on analysing user’s posts on a given topic to predict the stance. However, the stance in social
+media can be inferred from a mixture of signals that might reflect user’s beliefs including posts and online
+interactions. This paper examines various online features of users to detect their stance towards different topics.
+We compare multiple set of features, including on-topic content, network interactions, user’s preferences, and
+online network connections. Our objective is to understand the online signals that can reveal the users’ stance.
+Experimentation is applied on tweets dataset from the SemEval stance detection task, which covers five topics.
+Results show that stance of a user can be detected with multiple signals of user’s online activity, including
+their posts on the topic, the network they interact with or follow, the websites they visit, and the content
+they like. 
+
+## Dataset
+
+This folder contains the Semeval2016 stance dataset with the timeline information related to the user id. 
+The Semeval stance dataset can be accessed from https://saifmohammad.com/WebPages/StanceDataset.htm 
