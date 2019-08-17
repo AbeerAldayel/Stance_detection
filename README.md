@@ -19,4 +19,4 @@ they like.
 ## Dataset
 
 This folder contains the Semeval2016 stance dataset with the timeline information related to the user id. 
-The Semeval stance dataset can be accessed from https://saifmohammad.com/WebPages/StanceDataset.htm 
+The full Semeval stance dataset can be accessed from https://saifmohammad.com/WebPages/StanceDataset.htm 
