@@ -2,6 +2,19 @@
 Datasets related to the CSCW 2019 paper 'Your Stance is Exposed! Analysing Possible Factors for
 Stance Detection on Social Media'
 
+```
+@inproceedings{Abeer2019,
+  title={Your Stance is Exposed! Analysing Possible Factors for Stance Detection on Social Media},
+  author={Aldayel, Abeer and Magdy, Walid},
+  booktitle={Proc. ACM Hum.-Comput. Interact., Vol. 3, No. CSCW, Article 205. Publication date: November 2019},
+  year={2019},
+  organization={CSCW}
+}
+```
+
+
+
+
 If you have any questions about the paper or want to get access to code/dataset that's not already public, please contact Abeer ALDayel (a.aldayel@ed.ac.uk)
 
 ## Contributions
